@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+<div>
+  <header>
+    <h1>
+      REACT
+    </h1>
+  </header>
+</div>
+`;
