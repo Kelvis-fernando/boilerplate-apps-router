@@ -2,10 +2,12 @@
 
 exports[`<Main /> should render the heading 1`] = `
 <div>
-  <header>
+  <main
+    class="sc-KXCwU fWeGQF"
+  >
     <h1>
-      REACT
+      React
     </h1>
-  </header>
+  </main>
 </div>
 `;

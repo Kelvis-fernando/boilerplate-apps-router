@@ -1,10 +1,12 @@
 import React from 'react'
 
+import * as S from './styles'
+
 const Main = () => {
   return (
-    <header>
-      <h1>REACT</h1>
-    </header>
+    <S.Wrapper>
+      <h1>React</h1>
+    </S.Wrapper>
   )
 }
 
